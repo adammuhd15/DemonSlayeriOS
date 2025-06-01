@@ -11,7 +11,7 @@ import SwiftUI
 struct DemonSlayeriOSApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeTabView()
         }
     }
 }
